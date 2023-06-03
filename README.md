@@ -1,2 +1,6 @@
 # CSE-5360-003-ARTIFICIAL-INTELLIGENCE-I
 CSE-5360-003-ARTIFICIAL INTELLIGENCE I
+
+Academic Projects @ UTA
+
+Prof. Vamsikrishna Gopikrishna
