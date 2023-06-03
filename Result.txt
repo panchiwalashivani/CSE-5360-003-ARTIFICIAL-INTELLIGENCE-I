@@ -1,0 +1,157 @@
+Observation Sequence :LLLCCCCCCCCCCC
+Length of Q :14
+
+After Observation 1 = L:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.1
+P(h3 | Q) =	0.4
+P(h4 | Q) =	0.3
+P(h5 | Q) =	0.2
+
+Probability that the next candy will be Cherry, given Q:0.5
+Probability that the next candy will be Lime, given Q:0.5
+
+
+After Observation 2 = L:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.03846
+P(h3 | Q) =	0.30769
+P(h4 | Q) =	0.34615
+P(h5 | Q) =	0.30769
+
+Probability that the next candy will be Cherry, given Q:0.35
+Probability that the next candy will be Lime, given Q:0.65
+
+
+After Observation 3 = L:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.01316
+P(h3 | Q) =	0.21053
+P(h4 | Q) =	0.35526
+P(h5 | Q) =	0.42105
+
+Probability that the next candy will be Cherry, given Q:0.26923
+Probability that the next candy will be Lime, given Q:0.73077
+
+
+After Observation 4 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.04839
+P(h3 | Q) =	0.51613
+P(h4 | Q) =	0.43548
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.20395
+Probability that the next candy will be Lime, given Q:0.79605
+
+
+After Observation 5 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.09
+P(h3 | Q) =	0.64
+P(h4 | Q) =	0.27
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.40323
+Probability that the next candy will be Lime, given Q:0.59677
+
+
+After Observation 6 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.14835
+P(h3 | Q) =	0.7033
+P(h4 | Q) =	0.14835
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.455
+Probability that the next candy will be Lime, given Q:0.545
+
+
+After Observation 7 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.22253
+P(h3 | Q) =	0.7033
+P(h4 | Q) =	0.07418
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.5
+Probability that the next candy will be Lime, given Q:0.5
+
+
+After Observation 8 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.31074
+P(h3 | Q) =	0.65473
+P(h4 | Q) =	0.03453
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.53709
+Probability that the next candy will be Lime, given Q:0.46291
+
+
+After Observation 9 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.40955
+P(h3 | Q) =	0.57528
+P(h4 | Q) =	0.01517
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.56905
+Probability that the next candy will be Lime, given Q:0.43095
+
+
+After Observation 10 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.51314
+P(h3 | Q) =	0.48053
+P(h4 | Q) =	0.00634
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.5986
+Probability that the next candy will be Lime, given Q:0.4014
+
+
+After Observation 11 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.6141
+P(h3 | Q) =	0.38338
+P(h4 | Q) =	0.00253
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.6267
+Probability that the next candy will be Lime, given Q:0.3733
+
+
+After Observation 12 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.70543
+P(h3 | Q) =	0.2936
+P(h4 | Q) =	9.7E-4
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.65289
+Probability that the next candy will be Lime, given Q:0.34711
+
+
+After Observation 13 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.78252
+P(h3 | Q) =	0.21712
+P(h4 | Q) =	3.6E-4
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.67612
+Probability that the next candy will be Lime, given Q:0.32388
+
+
+After Observation 14 = C:
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.84379
+P(h3 | Q) =	0.15608
+P(h4 | Q) =	1.3E-4
+P(h5 | Q) =	0.0
+
+Probability that the next candy will be Cherry, given Q:0.69554
+Probability that the next candy will be Lime, given Q:0.30446
+
+
